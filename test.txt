@@ -1,2 +1,2 @@
-...this is a test file.`:wq
+...this is a test file.`:wq first changes made in my first git repositary
 
