@@ -1,2 +1,2 @@
-...this is a test file.`:wq
+Hi, how are you ...this is a test file.`:wq
 
